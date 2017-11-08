@@ -1,0 +1,13 @@
+{
+  "name": "serverless-lambda-stepfunction",
+  "description": "",
+  "version": "0.1.0",
+  "dependencies": {
+    "aws-sdk": "^2.147.0"
+  },
+  "devDependencies": {
+    "serverless-offline": "^3.16.0",
+    "serverless-pseudo-parameters": "^1.2.5",
+    "serverless-step-functions": "^1.2.0"
+  }
+}
